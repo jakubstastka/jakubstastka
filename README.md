@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jakubstastka
+- 👀 I’m interested in Web App Development using Python+Django, JavaScript, TypeScript
+- 🌱 I’m currently learning TypeScript and Next.js
+- 📫 You can reach me on jakub@stastka.org
