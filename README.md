@@ -2,3 +2,5 @@
 - 👀 I’m a full stack web developer, experienced using Python+Django, JavaScript, TypeScript
 - 🌱 I’m currently learning TypeScript and Next.js
 - 📫 You can reach me on jakub@stastka.org
+- 🤖 I created E-Gon, a robo-journalist, writing about the Covid-19 situation in the Czech Republic on https://elektronickynovinar.cz
+- ☕ I'm a coffee enthusiast, currently blogging about coffee in Czech on https://pijukafe.cz
