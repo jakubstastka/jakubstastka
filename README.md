@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Jakub Stastka
-- 👀 I’m a full stack web developer, experienced using Python+Django, JavaScript, TypeScript, React, Next.js and more
+- 👀 I’m a full stack web developer, experienced with Python, Django, JavaScript, TypeScript, React, Next.js and more
 - 💻 Some more tech I can work with: Postgres, nginx, Docker, Tailwind, Bootstrap and such
 - ☁️ I have experience with cloud and serverless (mainly AWS, DigitalOcean, Vercel)
 - 📫 You can reach me on jakub@stastka.org, my personal website is https://stastka.org
