@@ -4,7 +4,7 @@
 - ⚛️ Frontend skills: JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap
 - 💻 Some more tech I can work with: Postgres, nginx, Docker...
 - 🐧 Linux user (desktop, servers)
-- ☁️ I have experience with cloud and serverless (mainly AWS, DigitalOcean, Vercel)
+- ☁️ I have experience with cloud and serverless (mainly DigitalOcean, AWS, Vercel)
 - 📫 You can reach me on jakub@stastka.org, my personal website is https://stastka.org
 - 🤖 I created E-Gon, a robo-journalist, writing about the Covid-19 situation in the Czech Republic on https://elektronickynovinar.cz
 - ☕ I'm a coffee enthusiast, currently blogging about coffee in Czech on https://pijukafe.cz
