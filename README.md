@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Jakub Stastka
 - 👀 I’m a fullstack web developer
-- 🐍 Backend skills: Python, Django, Django REST Framework, Scrapy
+- 🐍 Backend skills: Python, Django, Django REST Framework, Scrapy, Pandas and more
 - ⚛️ Frontend skills: JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap
 - 💻 Some more tech I can work with: Postgres, nginx, Docker...
 - 🐧 Linux user (desktop, servers)
