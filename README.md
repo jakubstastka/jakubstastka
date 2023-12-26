@@ -2,10 +2,7 @@
 - 👀 I’m a fullstack web developer
 - 🐍 Backend skills: Python, Django, Django REST Framework, Scrapy, Pandas and more
 - ⚛️ Frontend skills: JavaScript, TypeScript, React, Next.js, Alpine.js, jQuery, Material UI, Tailwind, Bootstrap
-- 💻 Some more tech I can work with: Postgres, nginx, Docker...
+- 💻 Some more things I can work with: Postgres, nginx, Docker...
 - 🐧 I can use Linux (desktop, server)
 - ☁️ I have experience with cloud and serverless (mainly DigitalOcean, AWS, Vercel)
 - 📫 You can reach me on jakub@stastka.org, my personal website is https://stastka.org
-- 🤖 I created E-Gon, a robo-journalist, writing about the Covid-19 situation in the Czech Republic on https://elektronickynovinar.cz
-- ☕ I'm a coffee enthusiast, currently blogging about coffee in Czech on https://pijukafe.cz
-- 🙋 Being curious about world and things in it, I have created a decloupled Django/Next.js app for answering "stupid" questions using ChatGPT on https://blbyotazky.cz
